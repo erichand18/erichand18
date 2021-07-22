@@ -1,4 +1,4 @@
-### Hi there, im Jake 👋
+### Hi there, im Eric 👋
   #### Technologies
 <table>
   <tbody>
