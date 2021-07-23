@@ -49,7 +49,7 @@
 </table>
 
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhandley18&theme=solarized-light&show_icons=true)](https://github.com/johnhandley/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhandley&theme=solarized-light&show_icons=true)](https://github.com/johnhandley/github-readme-stats)
 
 <!--
 **erichand18/erichand18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
