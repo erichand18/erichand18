@@ -1,4 +1,13 @@
 ### Hi there, im Eric 👋
+- 🔭 I’m currently working on a retro video game collection tracker
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about chess; I'm always down for a game! (chess.com & lichess username: erichand)
+- 📫 How to reach me: ehandley96@gmail.com or (936)-240-9331
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I speak Japanese and a little Chinese
+
+
+
   #### Technologies
 <table>
   <tbody>
@@ -50,18 +59,3 @@
 
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=erichand18&theme=solarized-light&show_icons=true)](https://github.com/erichand18/github-readme-stats)
-
-<!--
-**erichand18/erichand18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
