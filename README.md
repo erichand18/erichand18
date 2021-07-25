@@ -1,4 +1,15 @@
 ### Hi there, im Eric 👋
+- 🔭 I’m currently working on a retro video game collection tracker
+- 🌱 I’m currently learning Golang
+- 🤔 I’m looking for help with anything Golang!
+- 💬 Ask me about chess; I'm always down for a game!
+- 📫 How to reach me: ehandley96@gmail.com or (936)-240-9331
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I speak Japanese and a little Chinese
+
+#### Chess stats
+
+
   #### Technologies
 <table>
   <tbody>
