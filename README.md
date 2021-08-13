@@ -1,5 +1,5 @@
 ### Hi there, im Eric 👋
-- 🔭 I’m currently working on a retro video game collection tracker
+- 🔭 I’m currently working on a gRPC API for movies using Golang and MongoDB
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about chess; I'm always down for a game! (chess.com & lichess username: erichand)
 - 📫 How to reach me: ehandley96@gmail.com or (936)-240-9331
