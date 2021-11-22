@@ -1,5 +1,5 @@
 ### Hi there, im Eric 👋
-- 🔭 I’m currently working on a Project Euler questions and other algorithms
+- 🔭 I’m currently working on Project Euler questions and other algorithms
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💬 Ask me about chess; I'm always down for a game! (chess.com & lichess username: erichand)
 - 📫 How to reach me: ehandley96@gmail.com or (936)-240-9331
