@@ -1,7 +1,7 @@
 ### Hi there, im Eric 👋
 - 🔭 I’m currently working on Project Euler questions and other algorithms
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💬 Ask me about chess; I'm always down for a game! (chess.com & lichess username: erichand)
+- 💬 Ask me about chess; I'm always down for a game!
 - 📫 How to reach me: ehandley96@gmail.com or (936)-240-9331
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I speak Japanese and a little Chinese
